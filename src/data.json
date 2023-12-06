@@ -1,0 +1,96 @@
+ {
+  "shoeData" : [
+    {
+      "id": 1,
+      "name": "Hoka Mach 5",
+      "image": "https://www.theathletesfoot.com.au/media/catalog/product/cache/ec8945dbe7a391c1e946b836b9ec023c/1/1/1127894-wbgl_1.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "Asics GlideRide 3",
+      "image": "https://cdn.weartesters.com/wp-content/uploads/2022/07/Asics-GlideRide-3-Featured.png",
+      "price": 79.99
+    },
+    {
+      "id": 3,
+      "name": "Nike Vaporfly 3",
+      "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/19f97326-5fd1-402a-91c1-8ea5b3088a89/nike-debuts-its-vaporfly-3-racing-shoe.jpg",
+      "price": 59.99
+    },
+    {
+      "id": 4,
+      "name": "Nike Winflo 10",
+      "image": "https://productimages.footy.com/6539c325cb1c053740bafdf3/0/640.webp",
+      "price": 89.99
+    },
+    {
+      "id": 5,
+      "name": "Asics Gel-Cumulus 25",
+      "image": "https://cdn.fleetfeet.com/assets/2023_Asics_Cumulus-Ws.jpg/dynamic:1-aspect:1.7777777777778-fit:cover-strategy:entropy/2023_Asics_Cumulus-Ws--1600.jpg",
+      "price": 69.99
+    },
+    {
+      "id": 6,
+      "name": "New Balance Fresh Foam X 880 v13s",
+      "image": "https://nb.scene7.com/is/image/NB/m880gq13_nb_02_i?$pdpflexf2$&wid=440&hei=440",
+      "price": 54.99
+    },
+    {
+      "id": 7,
+      "name": "Hoka Challenger 7",
+      "image": "https://www.bfgcdn.com/1500_1500_90/023-1287-0111/hoka-challenger-atr-7-gtx-trail-running-shoes.jpg",
+      "price": 74.99
+    },
+    {
+      "id": 8,
+      "name": "Saucony Kinvara 14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReirJnMHabN4j4NAGQnsIIXSPnoJqwjhdoX-bfOixhRbDItrGSe98sTVRbssvCKPldM8U&usqp=CAU",
+      "price": 99.99
+    },
+    {
+      "id": 9,
+      "name": "Salomon Thundercross",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696532757-salomon-thundercross-651f06d27f481.jpg?crop=0.952xw:0.568xh;0.0160xw,0.403xh&resize=980:*",
+      "price": 64.99
+    },
+    {
+      "id": 10,
+      "name": "Brooks Adrenaline GTS 23",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1691636350-brooks-adrenaline-gts-23-64d451840e487.jpg?crop=0.952xw:0.568xh;0.0224xw,0.432xh&resize=980:*",
+      "price": 39.99
+    },
+    {
+      "id": 11,
+      "name": "Brooks Ghost 15",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1674248248-brooks-ghost-15-rw-gold-1674248099.jpg?crop=0.997xw:0.595xh;0,0.375xh&resize=980:*",
+      "price": 79.99
+    },
+    {
+      "id": 12,
+      "name": "Saucony Triumph 21",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696961237-saucony-triumph-21-rw-gold-6525916634356.jpg?crop=1.00xw:0.598xh;0,0.371xh&resize=980:*",
+      "price": 89.99
+    },
+    {
+      "id": 13,
+      "name": "Lululemon Blissfeel 2",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1686665835-lululemon-blissfeel-shoes-64887a5fc593b.png?crop=0.904xw:0.441xh;0.0481xw,0.280xh&resize=980:*",
+      "price": 49.99
+    },
+    {
+      "id": 14,
+      "name": "Nike Pegasus 40",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1691795071-nike-pegasus-40-64d6be10bff83.jpg?crop=0.976xw:0.581xh;0.0144xw,0.417xh&resize=980:*",
+      "price": 59.99
+    },
+    {
+      "id": 15,
+      "name": "New Balance FuelCell ",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1696876118-new-balance-fuelcell-supercomp-trainer-v2-gold-65244543a90ad.jpg?crop=0.982xw:0.660xh;0.00962xw,0.319xh&resize=980:*",
+      "price": 69.99
+    }
+  ]}
+  
+
+  

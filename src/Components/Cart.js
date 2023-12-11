@@ -20,7 +20,6 @@ export default function Cart({ addedItems, setAddedItems }) {
   };
 
   useEffect(() => {
-    // Only update the parent state if it's not derived from a state hook
     if (typeof setAddedItems === 'function') {
       setAddedItems(cartItems);
     }
@@ -81,7 +80,7 @@ export default function Cart({ addedItems, setAddedItems }) {
                   min="1"
                   value={item.quantity}
                   onChange={(e) =>
-                    updateQuantity(item.id, parseInt(e.target.value, 10))
+                    updateQuantity(item.id, parseInt(e.target.value, 10) || 0)
                   }
                 />
                 <button className='cart-button' onClick={() => removeItem(item.id)}>Remove</button>

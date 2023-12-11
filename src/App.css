@@ -1,15 +1,27 @@
 
 
 nav {
+    display: flex;
     background-color: rgb(9, 0, 105);
     padding: 10px;
+    align-items: center;
+    justify-content: space-between;
   }
   
+  .logo{
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+    }
+
   nav a {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    margin: 0 10px;
-    font-size: 16px;
+    margin: 0 20px;
+    font-size: 20px;
+    
   }
   
   nav a:hover {
@@ -17,9 +29,11 @@ nav {
   }
 
   nav a.active {
-    color: rgb(0, 255, 0);
+    color: rgb(255, 115, 0);
   }
-
+body{
+  background-color: rgb(255, 255, 255);
+}
   
 .logincard{
     margin: 0;
@@ -28,14 +42,15 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh; 
-    background-color: rgb(131, 118, 255)
+    height: 80vh; 
+   
   } 
   .container {
-    background-color: #ffffff;
+    background-color: rgb(231, 231, 231);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    
   }
   
   .title {
@@ -89,6 +104,7 @@ nav {
   }
   
   .shoe-card {
+    background-color: aliceblue;
     margin: 40px;
     padding-bottom: 20px;
     border: 1px solid #ccc;
@@ -157,6 +173,7 @@ nav {
 }
 
 .cart-item {
+  background-color: aliceblue;
   border: 1px solid #787878;
   padding: 10px;;
   width: 80%;
@@ -222,25 +239,9 @@ tbody td {
 
 .payment{
   padding: 10px;
-  background-color: #007bff;
+  background-color: #00af0f;
   color: #fff;
   border: none;
   cursor: pointer;
-}
-
-.discount-code {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  gap: 10px; 
-  width:50%;
-  margin:30px;
-  margin-left: 170px;
-  
-}
-.discount-button{
-  margin-top: -15px;
-  margin-left: 10px;
 }
 

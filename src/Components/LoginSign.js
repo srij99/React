@@ -90,7 +90,7 @@ export const Sign = () => {
 
     localStorage.setItem('Userdata', JSON.stringify(userData));
     alert("Sign-up successful");
-    navigate('/');
+    navigate('/login');
   };
 
   return (
